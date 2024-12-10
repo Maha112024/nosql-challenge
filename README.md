@@ -1,5 +1,8 @@
 # nosql-challenge
 Module 12 Challenge
+
+#########################################################################################################################################################3
+
 Which establishments have a hygiene score equal to 20?
 Based on the provided information, The Chase Rest Home located at 5-6 Southfields Road, Eastbourne, East Sussex has a hygiene score of 20. Here's a summary of the relevant details:
 	• Business Name: The Chase Rest Home
@@ -12,7 +15,7 @@ Based on the provided information, The Chase Rest Home located at 5-6 Southfield
 	• Rating Date: 23rd September 2021
 This establishment has received a hygiene score of 20, indicating top-level hygiene standards. If you're looking for additional establishments with the same score, you'd need to provide more data or search for other businesses with the same rating.
 
-
+########################################################################################################333
 Which establishments in London have a RatingValue greater than or equal to 4?
 
 Based on the data you provided:
@@ -25,7 +28,7 @@ Based on the data you provided:
 This establishment fits the query because its LocalAuthorityName ("City of London Corporation") includes "London", and its RatingValue is 4.
 If you have more establishments to check, you can run this query against your full dataset to retrieve all businesses in London with a rating of 4 or higher.
 
-
+##############################################################################################################################################33
 
 
 
@@ -54,7 +57,7 @@ Since they all have the same hygiene score (0), the distance from the new restau
 Conclusion:
 The establishments above are the 5 nearest businesses to Penang Flavours, all with a RatingValue of 5 and the same hygiene score. They are all located in the same general area in Plumstead, Greenwich.
 
-
+###############################################################################################################################################################################################################3
 
 How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 • Thanet has the highest count of establishments with a hygiene score of 0, with 1130 such establishments.
